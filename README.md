@@ -1,8 +1,7 @@
-# 🔧 FlowMaster Plumbing Nairobi — Website v2
+#  FlowMaster Plumbing Nairobi — Website v2
 
 > A warm artisan/retro-trade-poster plumbing website — completely different aesthetic from the first version. Deep terracotta, aged brass, chalk white, with Abril Fatface display type and Google Sheets booking capture built in.
 
----
 
 ## ✨ Design Philosophy
 
